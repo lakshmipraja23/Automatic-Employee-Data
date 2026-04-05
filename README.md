@@ -1,10 +1,10 @@
 # Automatic-Employee-Data
 
 📖 Overview  
-This project focuses on automating employee data management in ServiceNow.  
-Instead of manually entering employee details, data is imported in bulk using Excel   
+This project focuses on automating employee data management in ServiceNow.
+Instead of manually entering employee details,data is imported in bulk using Excel
 and processed automatically. This improves onboarding speed, eliminates errors,   
-and enhances overall system efficiency.
+and enhances overall system efficiency.  
 
 🎯 Objectives  
 •Automate employee data entry  
